@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Skipper Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Skipper Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Skipper Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Skipper Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				71
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Skipper Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/skippa",
+	"position": [
+		-300,
+		330
+	],
+	"healthicon": "skippa",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		30,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
