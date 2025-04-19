@@ -103,10 +103,15 @@ class FreeplayState extends MusicBeatState
 		}
 		Mods.loadTopMod();
 
-		bg = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
+		bg = new FlxSprite().loadGraphic(Paths.image('menuBGBlue'));
 		bg.antialiasing = ClientPrefs.data.antialiasing;
 		add(bg);
 		bg.screenCenter();
+
+		var bg2:FlxSprite = new FlxSprite(0, 100).loadGraphic(Paths.image('fire'));
+		FlxTween.tween(bg2, {y: 0}, 3, { type: FlxTween.PINGPONG, ease: FlxEase.sineInOut, loopDelay: 0});
+		bg.antialiasing = FlxG.save.data.antialiasing;
+		add(bg2);
 
 		grpSongs = new FlxTypedGroup<Alphabet>();
 		add(grpSongs);
