@@ -1,0 +1,39 @@
+{
+	"storyName": "Skippa",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"mom",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Skippa",
+			"skippa",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Prejudice",
+			"skippa",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Skipper"
+}
