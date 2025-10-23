@@ -93,6 +93,8 @@ class JeepStage extends BaseStage
 
     public function onBeatHit():Void
 	{
+		super.onBeatHit();
+
 		if (curBeat % 12 == 0)
 		{
 			tree.x = -1900;
