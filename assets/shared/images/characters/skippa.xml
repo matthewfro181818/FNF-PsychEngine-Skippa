@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skippa.png">
+<SubTexture name="Skipper Idle0000" x="0" y="0" width="267" height="324" frameX="0" frameY="0" frameWidth="267" frameHeight="324" />
+<SubTexture name="Skipper Idle0001" x="267" y="0" width="267" height="324" frameX="0" frameY="0" frameWidth="267" frameHeight="324" />
+<SubTexture name="Skipper Idle0002" x="534" y="0" width="267" height="324" frameX="0" frameY="0" frameWidth="267" frameHeight="324" />
+<SubTexture name="Skipper Idle0003" x="801" y="0" width="267" height="324" frameX="0" frameY="0" frameWidth="267" frameHeight="324" />
+<SubTexture name="Skipper Down0000" x="0" y="324" width="275" height="340" frameX="0" frameY="0" frameWidth="275" frameHeight="340" />
+<SubTexture name="Skipper Down0001" x="275" y="324" width="275" height="340" frameX="0" frameY="0" frameWidth="275" frameHeight="340" />
+<SubTexture name="Skipper Down0002" x="550" y="324" width="275" height="340" frameX="0" frameY="0" frameWidth="275" frameHeight="340" />
+<SubTexture name="Skipper Left0000" x="825" y="324" width="267" height="324" frameX="0" frameY="0" frameWidth="267" frameHeight="324" />
+<SubTexture name="Skipper Left0001" x="0" y="664" width="267" height="324" frameX="0" frameY="0" frameWidth="267" frameHeight="324" />
+<SubTexture name="Skipper Left0002" x="267" y="664" width="267" height="324" frameX="0" frameY="0" frameWidth="267" frameHeight="324" />
+<SubTexture name="Skipper Right0000" x="534" y="664" width="325" height="312" frameX="0" frameY="0" frameWidth="325" frameHeight="312" />
+<SubTexture name="Skipper Right0001" x="859" y="664" width="325" height="312" frameX="0" frameY="0" frameWidth="325" frameHeight="312" />
+<SubTexture name="Skipper Right0002" x="0" y="988" width="325" height="312" frameX="0" frameY="0" frameWidth="325" frameHeight="312" />
+<SubTexture name="Skipper Up0000" x="325" y="988" width="278" height="338" frameX="0" frameY="0" frameWidth="278" frameHeight="338" />
+<SubTexture name="Skipper Up0001" x="603" y="988" width="278" height="338" frameX="0" frameY="0" frameWidth="278" frameHeight="338" />
+<SubTexture name="Skipper Up0002" x="881" y="988" width="278" height="338" frameX="0" frameY="0" frameWidth="278" frameHeight="338" />
+</TextureAtlas>
