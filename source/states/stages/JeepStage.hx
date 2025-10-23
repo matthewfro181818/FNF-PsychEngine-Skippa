@@ -91,9 +91,8 @@ class JeepStage extends BaseStage
 		add(driver);
 	}
 
-    public function onBeatHit():Void
+        public function onBeatHit():Void
 	{
-		super.onBeatHit();
 
 		if (curBeat % 12 == 0)
 		{
